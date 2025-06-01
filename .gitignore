@@ -26,3 +26,7 @@ dist-ssr
 # too big files
 src/data/raw/gtfs/gtfs_WMATA/shapes.txt
 src/data/raw/gtfs/gtfs_WMATA/stop_times.txt
+
+src/data/processed/shapes.geojson
+
+src/data/processed/stop_times_summary.json

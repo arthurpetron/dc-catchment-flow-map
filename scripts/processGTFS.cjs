@@ -1,13 +1,14 @@
 const fs = require('fs');
 const path = require('path');
 const readline = require('readline');
+
 const statusFilePath = path.resolve(__dirname, '../src/data/raw/raw_data_source_status.json');
 
 // Input paths
 const shapesPath = path.resolve(__dirname, '../src/data/raw/gtfs/gtfs_WMATA/shapes.txt');
 const stopTimesPath = path.resolve(__dirname, '../src/data/raw/gtfs/gtfs_WMATA/stop_times.txt');
 
-// Output paths
+// Output paths (for full versions before splitting)
 const shapesOut = path.resolve(__dirname, '../src/data/processed/shapes.geojson');
 const stopTimesOut = path.resolve(__dirname, '../src/data/processed/stop_times_summary.json');
 
@@ -40,8 +41,8 @@ async function parseShapes() {
   });
 
   const routes = new Map();
-
   let headers = [];
+
   for await (const line of rl) {
     if (!headers.length) {
       headers = line.split(',');
@@ -81,6 +82,27 @@ async function parseShapes() {
   fs.writeFileSync(shapesOut, JSON.stringify(geojson, null, 2));
   saveStatus('gtfs_shapes.txt', getMTime(shapesPath));
   console.log('✅ shapes.txt processed to shapes.geojson');
+
+  // Split into chunks
+  const chunkSize = 1000;
+  for (let i = 0; i < geojson.features.length; i += chunkSize) {
+    const chunk = {
+      type: "FeatureCollection",
+      features: geojson.features.slice(i, i + chunkSize)
+    };
+    const chunkPath = `./src/data/processed/shapes_part_${i / chunkSize + 1}.geojson`;
+    fs.writeFileSync(chunkPath, JSON.stringify(chunk));
+    console.log(`✅ wrote ${chunkPath}`);
+  }
+
+  fs.unlinkSync(shapesOut);
+
+  // Update .gitignore
+  const gitignorePath = path.resolve(__dirname, '../.gitignore');
+  const gitignoreContent = fs.existsSync(gitignorePath) ? fs.readFileSync(gitignorePath, 'utf-8') : '';
+  if (!gitignoreContent.includes('src/data/processed/shapes.geojson')) {
+    fs.appendFileSync(gitignorePath, '\nsrc/data/processed/shapes.geojson\n');
+  }
 }
 
 async function summarizeStopTimes() {
@@ -90,8 +112,8 @@ async function summarizeStopTimes() {
   });
 
   const trips = new Map();
-
   let headers = [];
+
   for await (const line of rl) {
     if (!headers.length) {
       headers = line.split(',');
@@ -107,27 +129,50 @@ async function summarizeStopTimes() {
     const time = entry['arrival_time'];
 
     if (!trips.has(tripId)) trips.set(tripId, []);
-    trips.get(tripId).push({ stopId, time });
+    trips.get(tripId).push({ stop: stopId, arrival: time });
   }
 
   const result = {};
   for (const [tripId, stops] of trips.entries()) {
-    result[tripId] = stops.map(s => ({ stop: s.stopId, arrival: s.time }));
+    result[tripId] = stops;
   }
 
   fs.writeFileSync(stopTimesOut, JSON.stringify(result, null, 2));
   saveStatus('gtfs_stop_times.txt', getMTime(stopTimesPath));
   console.log('✅ stop_times.txt summarized');
+
+  // Split into chunks
+  const tripIds = Object.keys(result);
+  const chunkSize = 1000;
+  for (let i = 0; i < tripIds.length; i += chunkSize) {
+    const chunk = {};
+    tripIds.slice(i, i + chunkSize).forEach(id => {
+      chunk[id] = result[id];
+    });
+    const chunkPath = `./src/data/processed/stop_times_part_${i / chunkSize + 1}.json`;
+    fs.writeFileSync(chunkPath, JSON.stringify(chunk, null, 2));
+    console.log(`✅ wrote ${chunkPath}`);
+  }
+
+  fs.unlinkSync(stopTimesOut);
+
+  const gitignorePath = path.resolve(__dirname, '../.gitignore');
+  const gitignoreContent = fs.existsSync(gitignorePath) ? fs.readFileSync(gitignorePath, 'utf-8') : '';
+  if (!gitignoreContent.includes('src/data/processed/stop_times_summary.json')) {
+    fs.appendFileSync(gitignorePath, '\nsrc/data/processed/stop_times_summary.json\n');
+  }
 }
 
 async function main() {
-  if (shouldProcess(shapesPath, 'gtfs_shapes.txt')) {
+  const force = process.argv.includes('--force');
+
+  if (force || shouldProcess(shapesPath, 'gtfs_shapes.txt')) {
     await parseShapes();
   } else {
     console.log('⏩ shapes.txt up to date');
   }
 
-  if (shouldProcess(stopTimesPath, 'gtfs_stop_times.txt')) {
+  if (force || shouldProcess(stopTimesPath, 'gtfs_stop_times.txt')) {
     await summarizeStopTimes();
   } else {
     console.log('⏩ stop_times.txt up to date');
