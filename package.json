@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "process-bts": "node scripts/processBTS.js",
-    "dev": "node scripts/processBTS.js && vite",
+    "process-gtfs": "node scripts/processGTFS.cjs",
+    "dev": "node scripts/processBTS.js && node scripts/processGTFS.cjs && vite",
     "build": "vite build",
     "preview": "vite preview"
   },
@@ -15,6 +16,7 @@
     "vite": "^6.3.5"
   },
   "dependencies": {
-    "d3": "^7.9.0"
+    "d3": "^7.9.0",
+    "fs": "^0.0.1-security"
   }
 }
