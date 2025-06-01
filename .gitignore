@@ -22,3 +22,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# too big files
+src/data/raw/gtfs/gtfs_WMATA/shapes.txt
+src/data/raw/gtfs/gtfs_WMATA/stop_times.txt
