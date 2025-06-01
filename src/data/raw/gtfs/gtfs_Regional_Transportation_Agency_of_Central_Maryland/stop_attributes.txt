@@ -1,0 +1,684 @@
+stop_id,stop_city
+2560991,Columbia
+2560920,Laurel
+2561184,Columbia
+2560980,Columbia
+2561254,Sunnyside
+2560760,Columbia
+2561126,Columbia
+2560893,Columbia
+2561062,Columbia
+2561238,Sunnyside
+2561164,Columbia
+2560778,Laurel
+2561016,Columbia
+2561173,Columbia
+2560800,Georgetown
+2561356,Laurel
+2560749,Glenshire Towne
+2562453,Georgetown
+2560914,Whitehurst
+2560849,Whitehurst
+2561196,Konterra
+2561070,Columbia
+2561227,Laurel
+2560888,Columbia
+2561236,Konterra
+2561010,Columbia
+2560829,Columbia
+2561255,Sunnyside
+2561150,Columbia
+2560990,Columbia
+2561338,Columbia
+2560973,Columbia
+2561210,Laurel
+2561079,Ellicott City
+2560948,Columbia
+2560814,Laurel
+2561056,Ellicott City
+2561335,Guilford
+2562450,Columbia
+2560798,Georgetown
+2562451,Columbia
+2561383,Laurel
+2560870,Columbia
+2561121,Ellicott City
+2561046,Ellicott City
+2561251,Greenbelt
+2560896,Columbia
+2561013,Columbia
+2560780,Laurel
+2561285,Laurel
+2560772,Georgetown
+2560994,Columbia
+2561064,Columbia
+2561041,Ellicott City
+2562462,Columbia
+2561169,Columbia
+2560763,Columbia
+2561193,Columbia
+2560965,Columbia
+2560818,Columbia
+2560983,Columbia
+2561276,Konterra
+2561167,Columbia
+2560774,Georgetown
+2560747,Glen Oaks
+2560762,Columbia
+2561034,Ellicott City
+2561311,Waterloo
+2561104,Columbia
+2561033,Ellicott City
+2561053,Ellicott City
+2561224,Laurel
+2561261,Vansville
+2561326,Columbia
+2560986,Columbia
+2561341,Columbia
+2562455,Columbia
+2561312,Waterloo
+2560788,Holiday Mobile Home Estates
+2561103,Columbia
+2560711,Glenshire Towne
+2560741,Russett
+2560743,Russett
+2561182,Columbia
+2560753,Glenshire Towne
+2560941,Columbia
+2560779,Laurel
+2561163,Columbia
+2560837,Columbia
+2561354,Laurel
+2562459,Columbia
+2561351,Laurel
+2561042,Ellicott City
+2561117,Ellicott City
+2561275,South Laurel
+2561321,Columbia
+2560717,Glenshire Towne
+2560754,Glenshire Towne
+2561005,Columbia
+2561037,Ellicott City
+2561334,Guilford
+2560898,Columbia
+2561174,Columbia
+2561230,Laurel
+2560735,Laurel
+2560815,Laurel
+2561036,Ellicott City
+2561155,Columbia
+2561040,Ellicott City
+2561257,Chestnut Hills
+2560723,North Laurel
+2561339,Columbia
+2561279,Konterra
+2561030,Ellicott City
+2560724,North Laurel
+2560881,Wesley Grove
+2560839,Columbia
+2560917,Snow Hill Manor
+2561009,Columbia
+2560729,Laurel
+2561140,Columbia
+2560992,Columbia
+2561087,Columbia
+2561369,Villages of Montpelier
+2561232,Contee
+2561233,Konterra
+2561096,Columbia
+2561340,Columbia
+2560793,Holiday Mobile Home Estates
+2560864,Columbia
+2561272,Sunnyside
+2560895,Springwood
+2560873,Wesley Grove
+2560841,Columbia
+2560868,Waterloo
+2560858,Columbia
+2561239,Sunnyside
+2560813,Snow Hill Manor
+2560764,Columbia
+2561100,Columbia
+2561203,Greenbelt
+2561284,Laurel
+2561353,Laurel
+2561115,Ellicott City
+2561024,Ellicott City
+2560910,Columbia
+2561301,Columbia
+2560933,Guilford
+2560784,Russett
+2560945,Columbia
+2561017,Columbia
+2561191,Columbia
+2561266,Vansville
+2561084,Columbia
+2561120,Ellicott City
+2561029,Ellicott City
+2560736,Laurel Oaks
+2561153,Columbia
+2561368,South Laurel
+2561060,Columbia
+2560771,Georgetown
+2561273,South Laurel
+2561192,Columbia
+2561002,Columbia
+2561145,Columbia
+2561095,Columbia
+2561039,Ellicott City
+2560952,Guilford
+2560869,Waterloo
+2560715,Glen Oaks
+2561043,Ellicott City
+2561271,Sunnyside
+2579573,Columbia
+2560963,Columbia
+2561324,Columbia
+2561282,Contee
+2561225,Laurel
+2561382,Laurel
+2560803,Russett
+2561050,Ellicott City
+2560826,Columbia
+2561149,Columbia
+2561294,Columbia
+2560845,North Laurel
+2560993,Columbia
+2560966,Columbia
+2560988,Columbia
+2562456,Glen Oaks
+2560832,Columbia
+2561093,Columbia
+2561365,Snow Hill Manor
+2561323,Columbia
+2560922,Laurel
+2560989,Columbia
+2561105,Columbia
+2561304,Columbia
+2561178,Columbia
+2561099,Columbia
+2561068,Columbia
+2560801,Russett
+2561058,Columbia
+2560817,Hanover
+2560916,North Laurel
+2561125,Columbia
+2561219,Laurel
+2561143,Columbia
+2561248,Greenbelt
+2561300,Waterloo
+2561109,Ellicott City
+2560843,Columbia
+2560960,Columbia
+2560824,Columbia
+2561012,Columbia
+2561180,Columbia
+2561072,Columbia
+2560915,Russett
+2611972,Ellicott City
+2561234,Konterra
+2561073,Glen Oaks
+2560761,Columbia
+2561348,Laurel
+2560730,Laurel
+2560757,Glen Oaks
+2560878,Wesley Grove
+2560719,Glen Oaks
+2560926,Columbia
+2560905,Columbia
+2560777,Snow Hill Manor
+2561106,Columbia
+2561379,Contee
+2561252,Greenbelt
+2561375,Snow Hill Manor
+2560802,Russett
+2560882,Wesley Grove
+2561148,Columbia
+2560924,Laurel
+2561336,Guilford
+2560872,Wesley Grove
+2561021,Ellicott City
+2560821,Columbia
+2560865,Glenshire Towne
+2560725,Laurel Oaks
+2560822,Columbia
+2560782,Russett
+2560932,Columbia
+2561078,Ellicott City
+2560781,Russett
+2561122,Ellicott City
+2561322,Columbia
+2561134,Columbia
+2562463,Columbia
+2561217,Laurel
+2561190,Columbia
+2578210,Columbia
+2560874,Wesley Grove
+2560727,Laurel
+2560884,Wesley Grove
+2561371,Villages of Montpelier
+2561061,Columbia
+2561151,Columbia
+2561136,Columbia
+2560776,Laurel
+2751277,Ellicott City
+2560840,Columbia
+2560911,Columbia
+2560731,Laurel
+2560981,Columbia
+2561108,Columbia
+2560806,Russett
+2560833,Columbia
+2560716,Glen Oaks
+2561358,Contee
+2560848,Whitehurst
+2560956,Guilford
+2561240,Sunnyside
+2560892,Columbia
+2561306,Columbia
+2561161,Columbia
+2560766,Columbia
+2561290,Columbia
+2560903,Columbia
+2561160,Columbia
+2561302,Columbia
+2578207,Columbia
+2561377,Snow Hill Manor
+2561310,Waterloo
+2561293,Columbia
+2561359,Snow Hill Manor
+2560809,Laurel
+2561317,Columbia
+2561309,Columbia
+2560827,Columbia
+2561074,Ellicott City
+2560825,Columbia
+2560953,Guilford
+2561023,Ellicott City
+2562434,Villages of Montpelier
+2560728,Laurel
+2560999,Columbia
+2561247,Greenbelt
+2561314,Columbia
+2560770,Columbia
+2560951,Guilford
+2560785,Russett
+2561201,Sunnyside
+2561349,Laurel
+2561071,Columbia
+2560944,Columbia
+2560890,Waterloo
+2560950,Glen Oaks
+2561085,Columbia
+2560773,Georgetown
+2560836,Columbia
+2561081,Columbia
+2560783,Russett
+2561268,Sunnyside
+2561137,Columbia
+2560820,Columbia
+2560742,Snow Hill Manor
+2560835,Columbia
+2561380,Contee
+2561221,Laurel
+2560909,Columbia
+2561031,Ellicott City
+2561075,Ellicott City
+2560733,Laurel
+2579376,Columbia
+2560939,Columbia
+2561337,Guilford
+2560823,Columbia
+2560797,Georgetown
+2561211,Laurel
+2561131,Columbia
+2561277,Konterra
+2561296,Columbia
+2561342,Columbia
+2561152,Columbia
+2560907,Columbia
+2560866,Columbia
+2560740,Russett
+2561347,Columbia
+2560853,Columbia
+2561097,Columbia
+2560964,Columbia
+2561157,Columbia
+2561135,Columbia
+2561019,Ellicott City
+2560962,Columbia
+2561320,Columbia
+2561307,Columbia
+2561111,Columbia
+2560786,Russett
+2560997,Columbia
+2561370,Villages of Montpelier
+2561286,Laurel
+2560942,Columbia
+2561378,Snow Hill Manor
+2561179,Columbia
+2560871,Wesley Grove
+2560968,Guilford
+2560996,Columbia
+2561101,Columbia
+2561014,Columbia
+2560738,North Laurel
+2560863,Columbia
+2560899,Columbia
+2561119,Ellicott City
+2562452,Columbia
+2561132,Columbia
+2561025,Ellicott City
+2560831,Columbia
+2561350,Laurel
+2561113,Columbia
+2560927,Columbia
+2561057,Columbia
+2561363,Snow Hill Manor
+2561011,Columbia
+2561052,Ellicott City
+2561303,Columbia
+2561171,Columbia
+2560974,Columbia
+2561006,Columbia
+2560720,Glen Oaks
+2560876,Wesley Grove
+2560901,Columbia
+2561189,Columbia
+2560958,Columbia
+2560792,Silva-De-Amor
+2561202,Sunnyside
+2560852,Corridor North
+2560739,North Laurel
+2560768,Columbia
+2561032,Ellicott City
+2561325,Columbia
+2560957,Columbia
+2561123,Ellicott City
+2561015,Columbia
+2560759,Columbia
+2560969,Guilford
+2561288,Laurel
+2561077,Ellicott City
+2561063,Columbia
+2561212,Laurel
+2561028,Ellicott City
+2561295,Columbia
+2560726,Laurel
+2561228,Laurel
+2561299,Wesley Grove
+2561094,Columbia
+2561345,Columbia
+2561055,Ellicott City
+2560935,Guilford
+2560854,Columbia
+2561318,Columbia
+2560714,Glenshire Towne
+2561020,Ellicott City
+2561048,Ellicott City
+2562457,Glen Oaks
+2560828,Columbia
+2561139,Columbia
+2561316,Columbia
+2560889,Waterloo
+2561067,Columbia
+2560712,Glenshire Towne
+2560756,Glenshire Towne
+2560931,Columbia
+2560891,Columbia
+2560936,Guilford
+2561118,Ellicott City
+2561289,Laurel
+2561386,Laurel
+2560789,Silva-De-Amor
+2561389,Laurel
+2560755,Glenshire Towne
+2561110,Columbia
+2561197,Chestnut Hills
+2561374,Snow Hill Manor
+2560877,Wesley Grove
+2561387,Laurel
+2561214,Laurel
+2560811,Laurel
+2561355,Laurel
+2562458,Columbia
+2561027,Ellicott City
+2560906,Columbia
+2560812,Laurel
+2561162,Columbia
+2561346,Columbia
+2561218,Laurel
+2560928,Columbia
+2561283,Laurel
+2561258,Chestnut Hills
+2560750,Glen Oaks
+2560930,Columbia
+2560971,Guilford
+2561281,Contee
+2560967,Columbia
+2560880,Wesley Grove
+2561253,Greenbelt
+2560978,Columbia
+2561226,Laurel
+2560710,Glenshire Towne
+2561049,Ellicott City
+2579574,Columbia
+2560861,Columbia
+2561256,Chestnut Hills
+2560850,Glenshire Towne
+2561270,Sunnyside
+2561246,Greenbelt
+2560862,Columbia
+2561008,Columbia
+2561065,Columbia
+2561154,Columbia
+2560745,Glen Oaks
+2560946,Columbia
+2561186,Columbia
+2560887,Wesley Grove
+2561080,Ellicott City
+2560972,Columbia
+2561127,Columbia
+2561038,Ellicott City
+2562461,Columbia
+2561367,Snow Hill Manor
+2561287,Laurel
+2560834,Columbia
+2560842,Columbia
+2561199,Chestnut Hills
+2560934,Guilford
+2561129,Columbia
+2561229,Laurel
+2560718,Glen Oaks
+2560751,Glen Oaks
+2561200,Chestnut Hills
+2560925,Columbia
+2561004,Columbia
+2561213,Laurel
+2561188,Columbia
+2738205,Glenshire Towne
+2561156,Columbia
+2560846,Russett
+2561133,Columbia
+2560955,Guilford
+2561333,Guilford
+2561291,Columbia
+2561035,Ellicott City
+2561144,Columbia
+2738204,Glenshire Towne
+2561000,Columbia
+2561001,Columbia
+2560897,Glenshire Towne
+2561244,Vansville
+2561361,Snow Hill Manor
+2560790,Silva-De-Amor
+2560885,Wesley Grove
+2561231,Contee
+2561259,Chestnut Hills
+2561297,Waterloo
+2561082,Columbia
+2561280,Konterra
+2561250,Greenbelt
+2560722,Glen Oaks
+2560830,Columbia
+2561245,Greenbelt
+2560976,Columbia
+2561018,Columbia
+2561894,Columbia
+2561241,Sunnyside
+2560816,Silva-De-Amor
+2561372,Villages of Montpelier
+2561083,Columbia
+2561360,Snow Hill Manor
+2560975,Columbia
+2561066,Columbia
+2561331,Columbia
+2562454,Georgetown
+2561364,Snow Hill Manor
+2561223,Laurel
+2561098,Columbia
+2560883,Wesley Grove
+2561177,Columbia
+2561242,Sunnyside
+2560856,Columbia
+2561366,Snow Hill Manor
+2561146,Columbia
+2560744,Russett
+2561243,Vansville
+2560943,Columbia
+2561328,Columbia
+2562436,Laurel
+2561166,Columbia
+2561022,Ellicott City
+2561263,Konterra
+2560721,Glen Oaks
+2560977,Columbia
+2561114,Columbia
+2560982,Columbia
+2561215,Laurel
+2560810,Laurel
+2561086,Columbia
+2561130,Columbia
+2561343,Columbia
+2561175,Columbia
+2560807,Snow Hill Manor
+2560879,Wesley Grove
+2561076,Ellicott City
+2561330,Columbia
+2560954,Guilford
+2560838,Columbia
+2560979,Columbia
+2560998,Columbia
+2561183,Columbia
+2560758,Glen Oaks
+2560767,Columbia
+2561315,Columbia
+2561069,Columbia
+2561209,Laurel
+2561185,Columbia
+2560748,Glen Oaks
+2560929,Columbia
+2560787,Russett
+2561376,Snow Hill Manor
+2578125,Laurel
+2561384,Laurel
+2561194,Columbia
+2561235,Konterra
+2560959,Columbia
+2561112,Columbia
+2560886,Wesley Grove
+2560921,Laurel
+2561344,Columbia
+2561054,Ellicott City
+2560919,Laurel
+2560844,Columbia
+2560904,Columbia
+2560970,Guilford
+2560713,Glenshire Towne
+2561170,Columbia
+2561381,Laurel
+2560961,Columbia
+2560796,Georgetown
+2561222,Laurel
+2561107,Columbia
+2561332,Guilford
+2561204,Greenbelt
+2578208,Columbia
+2560746,Glen Oaks
+2560900,Columbia
+2560804,Russett
+2561138,Columbia
+2561172,Columbia
+2560860,Columbia
+2560894,Columbia
+2561352,Laurel
+2560984,Columbia
+2561278,Konterra
+2561187,Columbia
+2561216,Laurel
+2561128,Columbia
+2561147,Columbia
+2561159,Columbia
+2560732,Laurel
+2560775,Georgetown
+2560902,Columbia
+2560913,Whitehurst
+2561260,Chestnut Hills
+2561059,Columbia
+2560791,Silva-De-Amor
+2561274,South Laurel
+2560737,North Laurel
+2560867,Columbia
+2560769,Columbia
+2561298,Waterloo
+2560912,Corridor North
+2560940,Columbia
+2560938,Columbia
+2560799,Georgetown
+2560908,Columbia
+2561262,Ammendale
+2561237,Konterra
+2561327,Columbia
+2561313,Columbia
+2560805,Russett
+2561388,Laurel
+2560752,Glen Oaks
+2561308,Columbia
+2561124,Columbia
+2561051,Ellicott City
+2560947,Columbia
+2561181,Columbia
+2560808,Laurel
+2561176,Columbia
+2561026,Ellicott City
+2561249,Greenbelt
+2561116,Ellicott City
+2560987,Columbia
+2560949,Glen Oaks
+2560765,Columbia
+2561329,Columbia
+2560985,Columbia
+2561373,Villages of Montpelier
+2561007,Columbia
+2561195,Columbia
+2561003,Columbia
+2560855,Columbia
+2561267,Vansville
+2561269,Sunnyside
+2561362,Snow Hill Manor
+2561198,Chestnut Hills
+2561168,Columbia
+2560875,Wesley Grove
+2560819,Columbia
+2560923,Laurel
+2560857,Columbia
+2560859,Columbia
+2561357,Contee
+2560995,Columbia
+2561165,Columbia
+2560851,Glenshire Towne
+2560847,Russett
+2561045,Ellicott City
+2562460,Columbia
+2561158,Columbia
+2560918,North Laurel

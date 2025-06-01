@@ -1,0 +1,72 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+1468522,,Community Pool,,39.5837884086186,-77.0265553526908,,0,,,
+12,,McDaniel College,,39.586168,-77.000403,,0,,,1
+11,,Pennsylvania Ave and Union St,,39.58304,-76.99893,,0,,,1
+10,,Sunny Brook Apartments,No stop present but community knows about stop,39.57253,-77.00511,,0,,,1
+56,,Westminster Library,Stop currently on other side of the road,39.574258,-76.995142,,0,,,1
+57,,10 Distillery Drive,Carroll Co. Family Ctr.,39.575585,-76.994468,,0,,,1
+9,,Westminster Overlook,,39.575715,-76.993741,,0,,,1
+55,,Carroll County Health Department,,39.567043,-76.997239,,0,,,1
+5,,Middle Brook Apartments - Center,,39.564411,-76.994629,,0,,,1
+6,,Middle Brook Apartments - Baldwin Park Dr,Stop exists but not in schedules,39.563363,-76.994482,,0,,,1
+7,,Middle Brook Apartments - Oak Hill,,39.564369,-76.996486,,0,,,1
+1468523,,Bishop Garth Apartments,,39.5652667968147,-76.9923156017458,,0,,,
+4,,Timber Ridge Apartments,,39.564163,-76.990374,,0,,,1
+3,,Westminster Senior Center,,39.562149,-76.990735,,0,,,1
+2,,Westbrooke Apartments,,39.562358,-76.98286,,0,,,1
+1468524,,BERC,,39.5739229055221,-76.9880603915731,,0,,,
+21,,Weis Market at MD-140,,39.56424,-76.97213,,0,,,1
+22,,Target at Malcolm Dr.,,39.566863,-76.974156,,0,,,1
+18,,Town Mall,,39.579598,-76.983627,,0,,,1
+19,,Giant Food at N Center St.,,39.573895,-76.982325,,0,,,1
+1468525,,Tremont Place,,39.5810276971739,-76.977976528392,,0,,,
+1468526,,Rescue Mission,,39.5929495627169,-76.9739295788825,,0,,,
+16,,Westminster Crossing-East,,39.58493,-76.98679,,0,,,1
+17,,Westminster Walmart,,39.58584,-76.98443,,0,,,1
+15,,Westminster Crossing-West,,39.585801,-76.989263,,0,,,1
+14,,Food Lion at MD-140,,39.581781,-76.98999,,0,,,1
+20,,Shoppers,,39.56456,-76.977,,0,,,1
+1468527,,Charles Fischer Building,,39.5602542890931,-76.9897053782802,,0,,,
+1468528,,Tevis Center for Wellness,,39.5590091755445,-76.9895727299824,,0,,,
+1468529,,Billingslea Building,,39.5586361580282,-76.9889713645163,,0,,,
+28,,Carroll Hospital Center,,39.557259,-76.990858,,0,,,1
+1529849,,Phyllis Greene Building,,39.5512752803402,-76.9919142358902,,0,,,
+1529850,,David Greene Building,,39.5501699929638,-76.9923072328104,,0,,,
+27,,Carroll Community College,,39.531838,-76.991402,,0,,,1
+23,,Piney Ridge Apartments,Stop on Lorimel Dr.,39.405674,-76.961899,,0,,,1
+40,,Carrolltown Village,,39.396002,-76.931041,,0,,,1
+25,,Carrolltown Center / Walmart,,39.398351,-76.934625,,0,,,1
+1530383,,Liberty Exchange,,39.4145280813243,-76.9788120208207,,0,,,
+1530405,,Manchester Manor,,39.6641419422349,-76.8914539809315,,0,,,
+1530406,,Westminster St. / Carroll Drugs,,39.6613934018732,-76.8858399299536,,0,,,
+1530404,,North Carroll Senior Center,,39.6386909994389,-76.8682879040038,,0,,,
+1530407,,Hampstead Walmart,,39.6365991289177,-76.8688868161028,,0,,,
+1530409,,Hampstead Marketplace,,39.639159234048,-76.8662187701533,,0,,,
+1530410,,Weis Market - Greenmount,,39.6360793505657,-76.8645149965706,,0,,,
+1530411,,Residence at Hampstead School,,39.6077479631962,-76.8494158416319,,0,,,
+1530412,,Ridgley House,,39.6051670488607,-76.8368470581853,,0,,,
+1530413,,Dogwood Dr. / Scarlett Oak Ct.,,39.6023382853457,-76.8417470031311,,0,,,
+1530414,,Boxwood Dr. / Woodsman Dr.,,39.597607204015,-76.8397695255742,,0,,,
+1530415,,Weis Market - Roberts Field,,39.5946969922633,-76.8439718671198,,0,,,
+46,,Roth Ave. and E Baltimore St.,,39.652218,-77.163341,,0,,,1
+47,,Baumgardner Ave. and Roberts Mill Rd.,,39.655298,-77.16484,,0,,,1
+48,,George St. and E Baltimore St.,,39.657287,-77.173438,,0,,,1
+49,,Frederick St. and E Baltimore St.,,39.65953,-77.176526,,0,,,1
+50,,Grand Dr. and Fairground Ave.,,39.647242,-77.165609,,0,,,1
+1530386,,Taneytown Food Lion,,39.6512071546334,-77.1581584947879,,0,,,
+45,,Kennies,,39.648744,-77.159704,,0,,,1
+1530387,,Meadow Creek,,39.5889901834646,-77.0106556237127,,0,,,
+1530388,,Westminster Safeway,,39.586068701415,-77.0126746524558,,0,,,
+1530385,,Taneytown Senior Center,,39.6579708115481,-77.1712070328266,,0,,,
+29,,Gaither Manor Apartments,,39.37451,-76.98893,,0,,,1
+2201063,,Oklahoma & Baldwin,,39.364997,-76.969733,,0,,,1
+33,,Village House,,39.369178,-76.966249,,0,,,1
+32,,Sykesville Apartments,,39.37092,-76.96573,,0,,,1
+34,,Springfield Hospital Canteen,,39.38293,-76.95924,,0,,,1
+38,,Freedom Village - Shoppers,Same stop as Georgetown Blvd. Shopping Center,39.401341,-76.947113,,0,,,1
+2201064,,Spencer Village,At Georgetown Rd,39.399285,-76.94518,,0,,,
+44,,Weis at Monroe Ave.,Previously Food Lion,39.397839,-76.924181,,0,,,1
+26,,Eldersburg Michael's,Now Closed,39.404831,-76.947781,,0,,,1
+35,,Londontown Square - Safeway,No stop as of Aug 2015,39.4074,-76.949194,,0,,,1
+36,,Eldersburg Marketplace - Martins,,39.410841,-76.949267,,0,,,1
+1530394,,Eldersburg Walgreens,,39.4047005455041,-76.9515619527797,,0,,,

@@ -1,0 +1,17 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,min_headway_minutes,eligibility_restricted,continuous_pickup,continuous_drop_off
+1529,301,301,South Laurel,,3,,ee2f2d,FFFFFF,0,60,0,1,1
+1529,302,302,Greenbelt Metro Station,,3,,ee2f2d,FFFFFF,1,60,0,1,1
+1529,408,408,Lark Brown / Waterloo,,3,,ee2f2d,FFFFFF,10,60,0,1,1
+1529,409,409,Elkridge Corners,,3,,ee2f2d,FFFFFF,11,120,0,1,1
+1529,414,414,Kings Contrivance,,3,,ee2f2d,FFFFFF,12,60,0,1,1
+1529,501,501,Columbia / Arundel Mills,,3,,ee2f2d,FFFFFF,13,120,0,1,1
+1529,502,502,Laurel / Arundel Mills,,3,,ee2f2d,ffffff,14,90,0,1,1
+1529,503,503,Laurel / Columbia,,3,,ee2f2d,FFFFFF,15,120,0,1,1
+1529,401,401,Harper's Choice / Clary's Forest,,3,,ee2f2d,FFFFFF,2,60,0,1,1
+1529,402A,402A,Columbia Crossing / Dobbin Center,,3,,ee2f2d,FFFFFF,3,60,0,1,1
+1529,402B,402B,Columbia Crossing / Dobbin Center,,3,,ee2f2d,FFFFFF,4,60,0,1,1
+1529,403,403,Executive Park Drive,,3,,ee2f2d,FFFFFF,5,60,0,1,1
+1529,404,404,Hickory Ridge,,3,,ee2f2d,FFFFFF,6,60,0,1,1
+1529,405,405,Ellicott City,,3,,ee2f2d,ffffff,7,60,0,1,1
+1529,406,406,Columbia Gateway,,3,,ee2f2d,FFFFFF,8,60,0,1,1
+1529,407,407,Owen Brown / Kings Contrivance,,3,,ee2f2d,FFFFFF,9,60,0,1,1

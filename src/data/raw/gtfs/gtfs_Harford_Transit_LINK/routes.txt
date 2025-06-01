@@ -1,0 +1,8 @@
+route_id,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color,route_type
+Route 5 - Teal Line_Route 5 - Teal Line_Aberdeen to Perryville_FF2E94B5,5 / Teal,Aberdeen - Perryville,,,107C8A,FFFFFF,3
+Route 6 - Orange Line_Route 6 - Orange Line_Belair Circulator_FFE03210,6 / Orange,Bel Air Circulator,,,EF542E,FFFFFF,3
+96830,7/Red,7 / Red Line,Red line,http://www.harfordcountymd.gov/DocumentCenter/View/17558/ROUTE-7-RED-LINE,FF0000,FFFFFF,3
+Route 1 - Green Line_Route 1 - Green Line_Havre de Grace to Belair_FF00A500,1 / Green,Havre de Grace - Bel Air,,,159562,FFFFFF,3
+Route 2 - Blue Line_Route 2 - Blue Line_Joppatowne to Belair_FF0000FF,2 / Blue,Joppatowne - Bel Air,,,1383BD,FFFFFF,3
+Route 3_Route 3 - Silver Line_Aberdeen Edgewood Joppatowne_FFBFBFBF,3 / Silver,Aberdeen / Edgewood / Joppatowne,,,808285,FFFFFF,3
+Route 4 - Yellow Line_Route 4 - Yellow Line_Aberdeen Circulator_FFFFEE0B,4 / Yellow,Aberdeen Circulator,,,F7DB33,000000,3

@@ -1,0 +1,7 @@
+route_id,route_short_name,route_long_name,route_desc,route_url,route_color,route_text_color,route_type
+41918,Purple,Westminster,,,683293,FFFFFF,3
+41917,Black,Westminster,,,000000,FFFFFF,3
+41921,Blue,Eldersburg,,,3A65B0,FFFFFF,3
+41919,Green,Taneytown - Westminster,,,22A850,FFFFFF,3
+41920,Red,South Carroll,,,B41F23,FFFFFF,3
+41922,Yellow,Hamstead / Manchester,,,F2B227,000000,3

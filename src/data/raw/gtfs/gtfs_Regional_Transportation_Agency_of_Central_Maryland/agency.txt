@@ -1,0 +1,2 @@
+agency_id,agency_url,agency_lang,agency_name,agency_phone,agency_timezone,agency_fare_url
+1529,http://www.transitrta.com/,en,Regional Transportation Agency of Central Maryland,1-800-270-9553,US/Eastern,http://www.transitrta.com/tickets/

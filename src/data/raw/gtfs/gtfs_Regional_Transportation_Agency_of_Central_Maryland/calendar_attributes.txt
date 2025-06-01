@@ -1,0 +1,4 @@
+service_id,service_description
+c_21722_b_30444_d_31,Phase 3 COVID-19 Mitigation Service (Weekday)
+c_21722_b_30444_d_32,Phase 3 COVID-19 Mitigation Service (Saturday only)
+c_21722_b_30444_d_64,Phase 3 COVID-19 Mitigation Service (Sunday only)
